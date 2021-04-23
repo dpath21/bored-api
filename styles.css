@@ -42,10 +42,6 @@ h2 {
     font-size: 32px;
 }
 
-.row {
-position: relative;
-margin-left: 600px;
-}
 .carousel-item {
     height: 100%;
     width: 100%;
