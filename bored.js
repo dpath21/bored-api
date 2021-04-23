@@ -1,6 +1,5 @@
-let activityDisplay = document.querySelector('.display')
 const baseURL = 'http://www.boredapi.com/api/activity/';
-
+let activityDisplay = document.querySelector('.display');
 
 //Create Button Mechanism
 const clickMe = document.querySelector('button');
