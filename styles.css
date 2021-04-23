@@ -42,8 +42,8 @@ h2 {
     font-size: 32px;
 }
 
-.carousel-item {
-    height: 100%;
-    width: 100%;
-    padding: 30px;
+#carouselExampleSlidesOnly {
+    height: 50%;
+    width: 50%;
+    margin-left: 350px;
 }
