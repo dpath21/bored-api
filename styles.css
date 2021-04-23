@@ -1,0 +1,53 @@
+body {
+    margin: 50px;
+    background-color: #80bdb8;
+background-image: url("https://www.transparenttextures.com/patterns/light-wool.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Handlee', cursive;
+    font-size: 90px;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Handlee', cursive;
+    margin: 25px;
+}
+
+.btn {
+    margin: 50px;
+    padding: 10px;
+    background-color: #c08eb1;
+    border: 3px solid white;
+    letter-spacing: 1px;
+    font-size: 32px;
+    font-family: 'Handlee', cursive;
+}
+
+.btn:hover {
+    background-color: #c42d97;
+    border: 3px solid white;
+    font-size: 32px;
+    font-family: 'Handlee', cursive;
+    font-weight: bold;
+}
+
+.display {
+    padding: 30px;
+    text-align: center;
+    font-family: 'Handlee', cursive;
+    font-size: 32px;
+}
+
+.row {
+position: relative;
+margin-left: 600px;
+}
+.carousel-item {
+    height: 100%;
+    width: 100%;
+    padding: 30px;
+}
