@@ -42,8 +42,14 @@ h2 {
     font-size: 32px;
 }
 
-#carouselExampleSlidesOnly {
+/* #carouselExampleSlidesOnly {
     height: 50%;
     width: 50%;
     margin-left: 500px;
+} */
+
+img {
+    margin: auto;
+    max-height: 50%;
+    max-width: 50%;
 }
